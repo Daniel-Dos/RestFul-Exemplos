@@ -1,0 +1,10 @@
+para testa o restEasy-Client adiconar os seguintes jar na pasta lib
+
+commons-codec-1.10
+commons-io-2.4
+commons-logging-1.1.3
+httpclient-4.5
+httpcore-4.4.1
+jcip-annotations-1.0
+
+utilizar o Wildfly 10 que contem outros jars para o seu funcionamento.
